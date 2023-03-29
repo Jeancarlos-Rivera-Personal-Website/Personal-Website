@@ -1,0 +1,52 @@
+
+nav{
+ display:block ;
+}
+
+.links {
+    float: right;
+}footer a {
+    margin-right: 64px;
+    text-decoration: none;
+}
+footer {
+    box-sizing: border-box;
+    position: static;
+    padding: 7px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    box-shadow: 0 -2px 4px -2p
+}
+
+header {
+    font-size: 2rem;
+    position:static;
+    left: 0;
+    right: 0;
+    padding: .2em 2em; background-color: rgb(245, 230, 16);
+    box-shadow: 0 2px 4px -2px black;
+}
+
+body {
+    background-color: antiquewhite;
+    max-width: 960px;
+    color: #232323;
+    margin: 0 auto;
+    font-style: inherit;
+}
+.Twitch {
+    width: 100px;
+}
+.Google {
+    width: 100px;
+}
+.Crunchyroll {
+    width: 100px;
+}
+html {
+    font-family: sans-serif;
+    font-size: 16px;
+    background: rgb(193, 209, 49);
+}
