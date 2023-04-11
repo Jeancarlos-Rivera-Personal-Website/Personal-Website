@@ -2,11 +2,24 @@
 .tiktok{
     width: 200px;
 }
-
 .Learning
 {
-    width: 500px;
+    width: 400px;
 }
 .Anime{
 width: 300px;
+}
+
+.container{ 
+    display: flex;
+}
+
+.p1{
+    display: flex;
+}
+.p2{
+    display: flex;
+}
+.p3 {
+    display: flex;
 }

@@ -1,7 +1,19 @@
 
 .animeone{
-    width: 500px;
+    width: 400px;
 }
 .animetwo{
-    width: 500px;
+    width: 400px;
+}
+.animethree{
+    width: 400px;
+}
+.p1 { 
+    display: flex;
+}
+.p2{
+    display: flex;
+}
+.p3{
+    display: flex;
 }
