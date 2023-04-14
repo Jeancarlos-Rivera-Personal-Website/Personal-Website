@@ -22,12 +22,17 @@ footer {
 
 header {
     font-size: 2rem;
-    position:static;
+    position:sticky;
     left: 0;
     right: 0;
+    top: 0px;
     padding: .2em 2em; background-color: rgb(245, 230, 16);
     box-shadow: 0 2px 4px -2px black;
+    display: flex;
+
 }
+
+
 
 body {
     background-color: antiquewhite;
@@ -35,6 +40,9 @@ body {
     color: #232323;
     margin: 0 auto;
     font-style: inherit;
+    
+
+   
 }
 .Twitch {
     width: 100px;
@@ -49,4 +57,24 @@ html {
     font-family: sans-serif;
     font-size: 16px;
     background: rgb(193, 209, 49);
+}
+.messagebx {
+    display: flex;
+    font-size: large;
+}
+#form{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+
+}
+.form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.submitButton{
+    width: 30%;
+   
 }

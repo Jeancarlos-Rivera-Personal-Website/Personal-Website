@@ -38,6 +38,7 @@ width: 300px;
 }
 
 .p3 {
+    justify-content: center;
     margin-bottom: 10%;
     margin-right: 10%; 
 }

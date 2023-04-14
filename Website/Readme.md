@@ -14,4 +14,25 @@
 * added .js file for alert when loading to landding page.
 * added final css file linmked to all pagews with padding, marging and background color.
 * detailed out my  navigation panel and made the panel static, moved links fixated to the left.
-* margined out links at the footer of the page, made them static as well and resized the pictures for proper sizing
+* margined out links at the footer of the page, made them static as well and resized the pictures for proper sizing.
+
+# Part 2
+
+## Day one
+* Applied flex test to  the css pages for Portfolio and About html.
+* Tested the form atribute.
+
+## Day 2
+* Added each indivual Container to properly introduce flex into about and portfolio html.
+* Display flex the containers and aling them  side by side.
+* properly created Script2.js for  new contact form and contact form html.
+* Pushed to git and commit.
+
+## Day 3 
+* Polished Flex Boxes on all.css and made adjustments to contact form.
+* Alling items to center on each form item and proper adjustment to message box.
+* Applied nav links  to  contact form and  creted sticky positioning to nav.
+* 
+
+
+
