@@ -10,16 +10,38 @@
 width: 300px;
 }
 
-.container{ 
+#container1{
+    display:flex;
+}
+#container2{
     display: flex;
 }
-
-.p1{
+#container3{
     display: flex;
+}
+.p1{
+    margin-bottom: 10%;
+    margin-right: 10%;
+    
+}
+.p11 {
+    font-size: larger;
+    margin-right: 10%;
 }
 .p2{
-    display: flex;
+ margin-bottom: 10%;
+ margin-right: 10%;
 }
+.p22 {
+    margin-right: 10%;
+    font-size: larger;
+}
+
 .p3 {
-    display: flex;
+    margin-bottom: 10%;
+    margin-right: 10%; 
+}
+.p33 {
+    margin-right: 10%;
+    font-size: larger;
 }
