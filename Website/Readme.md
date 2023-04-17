@@ -32,7 +32,8 @@
 * Polished Flex Boxes on all.css and made adjustments to contact form.
 * Alling items to center on each form item and proper adjustment to message box.
 * Applied nav links  to  contact form and  creted sticky positioning to nav.
-* 
+* Applied  larger font and re organized  form format  completed the  contact form.
+* Gave a hover effect to the nav bar and completed the assingment.
 
 
 
